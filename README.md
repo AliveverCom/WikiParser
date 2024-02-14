@@ -17,6 +17,49 @@ Below are the basic functionalities of this parser:
 
 3. Write WIKI keywords and search index into the database.
     It writes all parsed content into the MySQL to facilitate developers to develop various applications based on the database.
+
+====================================================================
+
+
+Dies ist ein Wiki-Inhaltsparser. Sie können die neueste WIKI-XML-Datei selbst von WIKI herunterladen. Dieser Parser wird dann zum Parsen der XML-Daten verwendet. Und schließlich alle Parsing-Ergebnisse in MySQL speichern.
+
+Das Programm nutzt Multithreading und Full-Memory-Computing. Das Programm verwendet automatisch die maximale Anzahl an Threads des Systems – 1 als Anzahl gleichzeitiger Threads. Effizienz: Etwa 20 Minuten auf einem 2020-Laptop. Die Referenzkonfiguration des Notebooks ist: Intel 11700H, Mem 48GB, SSD 20GB. Das Gesamtdatenvolumen beträgt ca. 3 Millionen Datensätze. XML-Datei 15 GB.
+
+
+Im Folgenden sind die Grundfunktionen dieses Parsers aufgeführt:
+1. Schneiden Sie die WIKI-XML-Datei aus.
+     Es kann Ihnen dabei helfen, eine vollständige WIKI-XML-Datei zur gleichzeitigen Analyse in mehrere kleine XML-Dateien zu zerlegen.
+
+2. WIKI-XML-Datenanalyse.
+     a. Analysieren Sie alle Schlüsselwörter und einige Versionsattribute des Schlüsselworts (Datum der letzten Version, Autor, Anzahl der Inhaltsbytes usw.).
+     b. Analysieren Sie alle Themen anhand der Schlüsselwörter und verwenden Sie Synonymbeziehungen, um die Themen zu deduplizieren.
+     c. Analysieren Sie die gegenseitigen Referenzbeziehungen zwischen allen Schlüsselwörtern und erstellen Sie einen bidirektionalen Index. Für jedes Schlüsselwort können Sie ermitteln, auf welche anderen Schlüsselwörter es sich bezieht und von welchen anderen Schlüsselwörtern das aktuelle Schlüsselwort zitiert wurde.
+     d. Analysieren Sie die WIKI-Navigationslistenseite und erstellen Sie einen Baumindex. Die WIKI-Listenseite bietet eine manuelle Grobklassifizierung basierend auf Schlüsselwortreferenzbeziehungen. Insbesondere bietet es einen Katalog einiger berühmter historischer Persönlichkeiten und historischer Ereignisse.
+
+3. Schreiben Sie WIKI-Schlüsselwörter und Suchindex in die Datenbank.
+    Es schreibt alle analysierten Inhalte in die Datenbank, um Entwicklern die Entwicklung verschiedener Anwendungen auf Basis der Datenbank zu erleichtern.
+
+===================================================================
+
+هذا هو محلل محتوى ويكي. يمكنك تنزيل أحدث ملف WIKI XML من WIKI بنفسك. يتم بعد ذلك استخدام هذا المحلل اللغوي لتحليل بيانات XML. وأخيرًا قم بتخزين جميع نتائج التحليل في MySQL.
+
+يستخدم البرنامج حوسبة متعددة الخيوط وذاكرة كاملة. يستخدم البرنامج تلقائيًا الحد الأقصى لعدد سلاسل العمليات في النظام - 1 كعدد سلاسل الرسائل المتزامنة. الكفاءة: حوالي 20 دقيقة على كمبيوتر محمول 2020. التكوين المرجعي للكمبيوتر المحمول هو: intel 11700H، Mem 48GB، SSD 20GB. يبلغ إجمالي حجم البيانات حوالي 3 ملايين سجل. ملف XML 15 جيجا.
+
+
+فيما يلي الوظائف الأساسية لهذا المحلل:
+1. قص ملف WIKI XML.
+     يمكن أن يساعدك في قص ملف WIKI XML كامل إلى عدة ملفات XML صغيرة للتحليل المتزامن.
+
+2. تحليل بيانات WIKI XML.
+     أ. تحليل جميع الكلمات الرئيسية وبعض سمات الإصدار للكلمة الرئيسية (تاريخ الإصدار الأخير، المؤلف، عدد بايتات المحتوى، وما إلى ذلك)
+     ب. تحليل كافة المواضيع ضمن الكلمات الرئيسية، واستخدام العلاقات المترادفة لإلغاء تكرار المواضيع.
+     ج.تحليل العلاقات المرجعية المتبادلة بين جميع الكلمات الرئيسية وإنشاء فهرس ثنائي الاتجاه. بالنسبة لكل كلمة رئيسية، يمكنك الحصول على: الكلمات الرئيسية الأخرى التي تشير إليها، والكلمات الرئيسية الأخرى التي تم اقتباس الكلمة الرئيسية الحالية بها.
+     د. تحليل صفحة قائمة التنقل في WIKI وإنشاء فهرس شجرة. توفر صفحة قائمة WIKI تصنيفًا تقريبيًا يدويًا استنادًا إلى العلاقات المرجعية للكلمات الرئيسية. ويقدم بشكل خاص فهرسًا لبعض الشخصيات التاريخية والأحداث التاريخية الشهيرة.
+
+3. اكتب الكلمات الرئيسية لـ WIKI وفهرس البحث في قاعدة البيانات.
+    يقوم بكتابة كل المحتوى الذي تم تحليله في قاعدة البيانات لتسهيل على المطورين تطوير التطبيقات المختلفة بناءً على قاعدة البيانات.
+
+   
    
 ====================================================================
 
