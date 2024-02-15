@@ -18,8 +18,14 @@ Below are the basic functionalities of this parser:
 3. Write WIKI keywords and search index into the database.
     It writes all parsed content into the MySQL to facilitate developers to develop various applications based on the database.
 
+![img_database](img_database.jpg)
+
+
+![img_keywords](img_keywords.jpg)
+
 ====================================================================
 
+** Deutsch **
 
 Dies ist ein Wiki-Inhaltsparser. Sie können die neueste WIKI-XML-Datei selbst von WIKI herunterladen. Dieser Parser wird dann zum Parsen der XML-Daten verwendet. Und schließlich alle Parsing-Ergebnisse in MySQL speichern.
 
