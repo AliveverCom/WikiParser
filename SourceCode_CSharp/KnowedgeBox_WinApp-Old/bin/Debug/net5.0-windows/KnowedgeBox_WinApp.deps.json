@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KnowedgeBox_WinApp/1.0.0": {
+        "dependencies": {
+          "WikiReader": "1.0.0",
+          "MySql.Data": "6.10.8.0",
+          "MySqlLib": "1.1.0.22670"
+        },
+        "runtime": {
+          "KnowedgeBox_WinApp.dll": {}
+        }
+      },
+      "WikiReader/1.0.0": {
+        "runtime": {
+          "WikiReader.dll": {}
+        }
+      },
+      "MySql.Data/6.10.8.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "6.10.8.0",
+            "fileVersion": "6.10.8.0"
+          }
+        }
+      },
+      "MySqlLib/1.1.0.22670": {
+        "runtime": {
+          "MySqlLib.dll": {
+            "assemblyVersion": "1.1.0.22670",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KnowedgeBox_WinApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WikiReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/6.10.8.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySqlLib/1.1.0.22670": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

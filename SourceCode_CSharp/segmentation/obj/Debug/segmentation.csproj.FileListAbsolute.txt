@@ -1,0 +1,12 @@
+E:\AiSource\KnowledgeBox\SourceCodes\segmentation\bin\Debug\NLP_segmentation.dll
+E:\AiSource\KnowledgeBox\SourceCodes\segmentation\bin\Debug\NLP_segmentation.pdb
+E:\AiSource\KnowledgeBox\SourceCodes\segmentation\obj\Debug\segmentation.csproj.AssemblyReference.cache
+E:\AiSource\KnowledgeBox\SourceCodes\segmentation\obj\Debug\segmentation.csproj.CoreCompileInputs.cache
+E:\AiSource\KnowledgeBox\SourceCodes\segmentation\obj\Debug\NLP_segmentation.dll
+E:\AiSource\KnowledgeBox\SourceCodes\segmentation\obj\Debug\NLP_segmentation.pdb
+C:\Users\User\OneDrive\AiSource\KnowledgeBox\SourceCodes\segmentation\bin\Debug\NLP_Segmentation.dll
+C:\Users\User\OneDrive\AiSource\KnowledgeBox\SourceCodes\segmentation\bin\Debug\NLP_Segmentation.pdb
+C:\Users\User\OneDrive\AiSource\KnowledgeBox\SourceCodes\segmentation\obj\Debug\segmentation.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\AiSource\KnowledgeBox\SourceCodes\segmentation\obj\Debug\segmentation.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\AiSource\KnowledgeBox\SourceCodes\segmentation\obj\Debug\NLP_Segmentation.dll
+C:\Users\User\OneDrive\AiSource\KnowledgeBox\SourceCodes\segmentation\obj\Debug\NLP_Segmentation.pdb

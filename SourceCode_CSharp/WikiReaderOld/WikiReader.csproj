@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>KnowedgeBox.WikiReader</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>ExtLib\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlLib">
+      <HintPath>ExtLib\MySqlLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

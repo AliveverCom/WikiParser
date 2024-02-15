@@ -1,0 +1,16 @@
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\obj\Debug\KnowedgeBox_WinApp.csproj.AssemblyReference.cache
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\obj\Debug\KnowedgeBox.WinApp.CMain_Dlg.resources
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\obj\Debug\KnowedgeBox.WinApp.Properties.Resources.resources
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\obj\Debug\KnowedgeBox_WinApp.csproj.GenerateResource.cache
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\obj\Debug\KnowedgeBox_WinApp.csproj.CoreCompileInputs.cache
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\bin\Debug\KnowedgeBox_WinApp.exe.config
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\bin\Debug\KnowedgeBox_WinApp.exe
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\bin\Debug\KnowedgeBox_WinApp.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\bin\Debug\MySql.Data.dll
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\bin\Debug\MySqlLib.dll
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\bin\Debug\WikiReader.dll
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\bin\Debug\WikiReader.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\obj\Debug\KnowedgeBox_WinApp.csproj.CopyComplete
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\obj\Debug\KnowedgeBox_WinApp.exe
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\obj\Debug\KnowedgeBox_WinApp.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox_WinApp\bin\Debug\MySqlLib.pdb

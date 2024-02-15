@@ -1,0 +1,15 @@
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\net5.0\WikiReader.deps.json
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\net5.0\WikiReader.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\net5.0\ref\WikiReader.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\net5.0\WikiReader.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\WikiReader.csproj.AssemblyReference.cache
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\WikiReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\WikiReader.AssemblyInfoInputs.cache
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\WikiReader.AssemblyInfo.cs
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\WikiReader.csproj.CoreCompileInputs.cache
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\WikiReader.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\ref\WikiReader.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\WikiReader.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\net5.0\MySql.Data.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\net5.0\MySqlLib.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\net5.0\WikiReader.csproj.CopyComplete

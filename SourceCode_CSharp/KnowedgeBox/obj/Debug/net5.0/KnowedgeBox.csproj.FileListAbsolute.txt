@@ -1,0 +1,12 @@
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\bin\Debug\net5.0\KnowedgeBox.deps.json
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\bin\Debug\net5.0\KnowedgeBox.dll
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\bin\Debug\net5.0\ref\KnowedgeBox.dll
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\bin\Debug\net5.0\KnowedgeBox.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\obj\Debug\net5.0\KnowedgeBox.csproj.AssemblyReference.cache
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\obj\Debug\net5.0\KnowedgeBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\obj\Debug\net5.0\KnowedgeBox.AssemblyInfoInputs.cache
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\obj\Debug\net5.0\KnowedgeBox.AssemblyInfo.cs
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\obj\Debug\net5.0\KnowedgeBox.csproj.CoreCompileInputs.cache
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\obj\Debug\net5.0\KnowedgeBox.dll
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\obj\Debug\net5.0\ref\KnowedgeBox.dll
+D:\AiSource\KnowledgeBox\SourceCodes\KnowedgeBox\obj\Debug\net5.0\KnowedgeBox.pdb

@@ -1,0 +1,11 @@
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\WikiReader.csproj.AssemblyReference.cache
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\WikiReader.csproj.CoreCompileInputs.cache
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\WikiReader.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\WikiReader.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\MySql.Data.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\MySqlLib.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\WikiReader.csproj.CopyComplete
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\WikiReader.dll
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\obj\Debug\WikiReader.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\MySqlLib.pdb
+D:\AiSource\KnowledgeBox\SourceCodes\WikiReader\bin\Debug\MySql.Data.xml

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>KnowedgeBox.WinApp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WikiReader\WikiReader.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>ExtLib\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlLib">
+      <HintPath>ExtLib\MySqlLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
